@@ -4,7 +4,7 @@ from llama_index import SimpleDirectoryReader, GPTSimpleVectorIndex, ServiceCont
 from pathlib import Path
 import os
 
-os.environ['OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_KEY'] = "ADD_YOU_API_KEY_HERE"
 
 
 # Create a llama session
